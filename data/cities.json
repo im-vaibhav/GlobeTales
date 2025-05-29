@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Carabana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-05-29T22:55:47.623Z",
+      "notes": "nice trip\n",
+      "position": {
+        "lat": "40.27952566881291",
+        "lng": "-3.2299804687500004"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Castilblanco de los Arroyos",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-05-29T22:56:28.102Z",
+      "notes": "good",
+      "position": {
+        "lat": "37.73596920859053",
+        "lng": "-5.998535156250001"
+      },
+      "id": 2
+    }
+  ]
+}
