@@ -12,17 +12,18 @@ export default function Product() {
           alt="person with dog overlooking mountain with sunset"
         />
         <div>
-          <h2>About WorldWide.</h2>
+          <h2>About GlobeTales.</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo est
-            dicta illum vero culpa cum quaerat architecto sapiente eius non
-            soluta, molestiae nihil laborum, placeat debitis, laboriosam at fuga
-            perspiciatis?
+            WorldWide is your personal travel companion — a simple, intuitive
+            app that helps you keep track of the places you visit and the
+            memories you make. Whether it’s a hidden café in your city or a
+            breathtaking destination halfway across the world, WorldWide lets
+            you log each stop with notes, reflections, and more.
           </p>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis
-            doloribus libero sunt expedita ratione iusto, magni, id sapiente
-            sequi officiis et.
+            Easily add locations, write down what made them special, and revisit
+            your journeys anytime. It’s your digital travel journal — built to
+            help you relive every adventure and stay inspired for the next one.
           </p>
         </div>
       </section>

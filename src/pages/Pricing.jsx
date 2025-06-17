@@ -15,9 +15,10 @@ export default function Product() {
             Just $9/month.
           </h2>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae vel
-            labore mollitia iusto. Recusandae quos provident, laboriosam fugit
-            voluptatem iste.
+            Completely Free — for now! Explore the world and capture your
+            memories without spending a dime. WorldWide is currently free to
+            use, giving you full access to all features — track places, take
+            notes, and revisit your adventures anytime.
           </p>
         </div>
         <img src="img-2.jpg" alt="overview of a large city with skyscrapers" />
